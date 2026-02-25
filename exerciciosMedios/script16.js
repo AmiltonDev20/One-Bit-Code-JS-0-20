@@ -52,4 +52,5 @@ const dadosDoUsuario ={
 
 objetoComoParametro(dadosDoUsuario)
 
-//ao inves de criar varios parametro, cria um objeto com os atributos necessario, e de parametro vc so passa o objeto ficando muito mais legivel e simples
+//ao inves de criar varios parametro, cria um objeto com os atributos necessario, 
+// e de parametro vc so passa o objeto ficando muito mais legivel e simples
